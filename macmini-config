@@ -1,6 +1,6 @@
 #
 # Automatically generated file; DO NOT EDIT.
-# Linux/powerpc 3.18.0 Kernel Configuration
+# Linux/powerpc 3.19.0-rc1 Kernel Configuration
 #
 # CONFIG_PPC64 is not set
 
@@ -468,7 +468,6 @@ CONFIG_PM_STD_PARTITION=""
 CONFIG_PM_SLEEP=y
 # CONFIG_PM_AUTOSLEEP is not set
 # CONFIG_PM_WAKELOCKS is not set
-CONFIG_PM_RUNTIME=y
 CONFIG_PM=y
 # CONFIG_PM_DEBUG is not set
 CONFIG_PM_CLK=y
